@@ -16,6 +16,8 @@ One is the Superbowl data, which has columns like winning team, combined points,
 3. The ratings and the average number of viewers increased simultaneously, whereas the networks fall behind in increasing the advertisement cost.
 4. The halftime performance data has been analyzed. The most repeatedly performed bands were identified. On average, the performers performed for 1 to 3 songs, and the maximum was 11 songs performed by Justin Timberlake in Superbowl 52.
 
+#Limitations
+1. The dataset is smaller for further analysis. The number of games held so far is less, and hence it is the limitation of the examination.
 
 
 
